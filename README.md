@@ -6,12 +6,11 @@ This project refactors the open-source project from https://github.com/fanlv/cha
 * [Private Messaging](#private-messaging)
 * [Wordle Mini-Game](#wordle-mini-game)
 
-| 功能         | 原项目 | 本项目 |
-|--------------|--------|--------|
-| Private Messaging     | ×      | ✓      |
-| Wordle Mini-Game | ×      | ✓      |
-|  Real-time Chat Room  | ✓      | ✓      |
-
+| Feature          | Original Project | ChatRoom-Plus |
+|------------------|------------------|---------------|
+| Private Messages | ×                | ✓             |
+| Wordle Game      | ×                | ✓             |
+| Multi-Platform   | ✓                | ✓             |
 ## Getting Started
 Run Server :
 ```bash
