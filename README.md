@@ -8,9 +8,9 @@ This project refactors the open-source project from https://github.com/fanlv/cha
 
 | 功能         | 原项目 | 本项目 |
 |--------------|--------|--------|
-| 私信功能     | ×      | ✓      |
-| Wordle 游戏  | ×      | ✓      |
-| 实时聊天室   | ✓      | ✓      |
+| Private Messaging     | ×      | ✓      |
+| Wordle Mini-Game | ×      | ✓      |
+|  Real-time Chat Room  | ✓      | ✓      |
 
 ## Getting Started
 Run Server :
